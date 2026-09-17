@@ -1,0 +1,13 @@
+experiment: mse
+loss: MagMSELoss
+sample_rate: 16000
+seed: 0
+epochs: 200
+batch_size: 4
+learning_rate: 0.001
+gradient_clip: 5.0
+scheduler_patience: 20
+scheduler_factor: 0.5
+min_lr: 1.0e-06
+validation: historical_test
+checkpoint: checkpoints/mse.pt

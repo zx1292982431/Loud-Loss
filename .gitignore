@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+runs/
+outputs/
+# Published checkpoints/, logs/ and manifests/ are intentional assets.
+results/

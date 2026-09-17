@@ -1,0 +1,58 @@
+LoudLoss Noncommercial Research License, version 1.0
+Copyright (c) 2026 LoudLoss research contributors
+
+This license applies to the original LoudLoss contributions, documentation,
+released model weights and experiment records, except third-party materials
+identified below or bearing their own license.
+
+Permission is granted, without charge, to use, reproduce, study, modify and
+redistribute the covered materials and derivative works solely for
+noncommercial research and education. Redistribution must include this license,
+retain attribution, identify modifications and apply these same restrictions
+to the covered materials and their derivatives. Research publications may
+report results and cite this work.
+
+Commercial use is not permitted without a separate written authorization from
+the rights holders. Commercial use includes incorporation into a commercial
+product or service, sale or licensing for compensation, providing paid
+inference or training services, or use to develop, evaluate or improve a
+commercial product or service. These restrictions also apply to derivatives
+of the released model weights.
+
+This license does not grant rights to third-party datasets or third-party
+software, and does not restrict permissions independently granted by their
+respective licenses. No trademark rights are granted. This is a source-available
+research license, not an OSI-approved open-source license.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM USE OF THE MATERIALS.
+
+
+Third-party component: GTCRN
+Source: https://github.com/Xiaobin-Rong/gtcrn
+Applies to upstream code used in loudloss/gtcrn.py.
+The original MIT grant remains applicable to that code.
+
+MIT License
+
+Copyright (c) 2024 Rong Xiaobin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
